@@ -1,0 +1,37 @@
+name: README
+# Re-derives the profile README from https://korczis.github.io/site.json. The site refreshes its
+# data every six hours; this follows an hour later. Reads a public file, so it needs no secret.
+on:
+  schedule:
+    - cron: '45 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/**, .github/workflows/readme.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme
+  cancel-in-progress: false
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Derive README.md
+        run: node scripts/build-readme.mjs
+      - name: Commit when it changed
+        run: |
+          if git diff --quiet -- README.md; then echo "README.md unchanged"; exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'docs(readme): re-derive from site.json'
+          git push
