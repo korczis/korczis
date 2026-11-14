@@ -29,7 +29,7 @@ Software for evidence: AI agents that prove their work, honest instruments in th
 ## Work by field
 
 - **[Tools](https://korczis.github.io/projects/tools/)** (72): Small, sharp command-line tools and indexes: data conversion, CSV to SQL, gist search.
-- **[Data and GIS](https://korczis.github.io/projects/data/)** (47): Catalogues and maps of open data: geodata sources, incident reports geocoded and served from one registry.
+- **[Data and GIS](https://korczis.github.io/projects/data/)** (48): Catalogues and maps of open data: geodata sources, incident reports geocoded and served from one registry.
 - **[Systems and infrastructure](https://korczis.github.io/projects/systems/)** (16): Servers, clusters and the plumbing beneath software: immutable hosts, packet processing, embedded boards and deployment.
 - **[Learning and experiments](https://korczis.github.io/projects/learning/)** (16): Learning materials, katas and experiments across many languages: the sketches that came before the projects.
 - **[Science and visualisation](https://korczis.github.io/projects/science/)** (14): Honest instruments and drawn algorithms in the browser: acoustics, physics, sorting, mazes, each readout measured.
@@ -40,7 +40,7 @@ Software for evidence: AI agents that prove their work, honest instruments in th
 - **[AI engineering](https://korczis.github.io/projects/ai/)** (7): Supervision for AI coding agents: one policy for every tool, scoped tasks, and work that lands only when it is proven.
 - **[Security and OSINT](https://korczis.github.io/projects/security/)** (4): Open-source intelligence, radio and network security research: cases, proofs of concept and the tooling around them.
 
-211 original repositories on GitHub and GitLab, each with its sources, on [the site](https://korczis.github.io/repositories/);
+212 original repositories on GitHub and GitLab, each with its sources, on [the site](https://korczis.github.io/repositories/);
 forks (250) and mirrors (33) are left out.
 
 <sub>Derived from [site.json](https://korczis.github.io/site.json), data as of 2026-11-14.</sub>
