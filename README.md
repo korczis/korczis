@@ -28,11 +28,11 @@ Software for evidence: AI agents that prove their work, honest instruments in th
 
 ## Work by field
 
-- **[Tools](https://korczis.github.io/projects/tools/)** (67): Small, sharp command-line tools and indexes: data conversion, CSV to SQL, gist search.
-- **[Data and GIS](https://korczis.github.io/projects/data/)** (50): Catalogues and maps of open data: geodata sources, incident reports geocoded and served from one registry.
+- **[Tools](https://korczis.github.io/projects/tools/)** (64): Small, sharp command-line tools and indexes: data conversion, CSV to SQL, gist search.
+- **[Data and GIS](https://korczis.github.io/projects/data/)** (51): Catalogues and maps of open data: geodata sources, incident reports geocoded and served from one registry.
 - **[Learning and experiments](https://korczis.github.io/projects/learning/)** (21): Learning materials, katas and experiments across many languages: the sketches that came before the projects.
 - **[Systems and infrastructure](https://korczis.github.io/projects/systems/)** (17): Servers, clusters and the plumbing beneath software: immutable hosts, packet processing, embedded boards and deployment.
-- **[Web](https://korczis.github.io/projects/web/)** (15): Websites and web applications: single-page apps, Phoenix and Elm frontends, landing pages and the sites of friends.
+- **[Web](https://korczis.github.io/projects/web/)** (16): Websites and web applications: single-page apps, Phoenix and Elm frontends, landing pages and the sites of friends.
 - **[Science and visualisation](https://korczis.github.io/projects/science/)** (12): Honest instruments and drawn algorithms in the browser: acoustics, physics, sorting, mazes, each readout measured.
 - **[Media and art](https://korczis.github.io/projects/media/)** (8): Work made from code: a promo reel rendered end to end, a music blog, and a digital artifact or two.
 - **[Libraries](https://korczis.github.io/projects/libraries/)** (7): Reusable building blocks for other programs: clients, bindings, validators, parsers and framework extensions, mostly Elixir and Rust.
@@ -40,7 +40,7 @@ Software for evidence: AI agents that prove their work, honest instruments in th
 - **[Knowledge](https://korczis.github.io/projects/knowledge/)** (5): Knowledge bases you can check: cross-linked taxonomies with their sources, built as books, sites and graphs.
 - **[Security and OSINT](https://korczis.github.io/projects/security/)** (5): Open-source intelligence, radio and network security research: cases, proofs of concept and the tooling around them.
 
-212 original repositories on GitHub and GitLab, each with its sources, on [the site](https://korczis.github.io/repositories/);
-forks (250) and mirrors (33) are left out.
+211 original repositories on GitHub and GitLab, each with its sources, on [the site](https://korczis.github.io/repositories/);
+forks (250) and mirrors (47) are left out.
 
-<sub>Derived from [site.json](https://korczis.github.io/site.json), data as of 2026-11-14.</sub>
+<sub>Derived from [site.json](https://korczis.github.io/site.json), data as of 2026-11-16.</sub>
