@@ -43,4 +43,4 @@ Software for evidence: AI agents that prove their work, honest instruments in th
 211 original repositories on GitHub and GitLab, each with its sources, on [the site](https://korczis.github.io/repositories/);
 forks (250) and mirrors (47) are left out.
 
-<sub>Derived from [site.json](https://korczis.github.io/site.json), data as of 2026-11-16.</sub>
+<sub>Derived from [site.json](https://korczis.github.io/site.json), data as of 2026-11-17.</sub>
