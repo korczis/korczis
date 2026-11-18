@@ -31,6 +31,11 @@ const fold = (summary, body) => body.length
   : [];
 
 // The contact line: site first, then hire terms, LinkedIn, email, the Czech version.
+// The site's sections a client reads next (services, case studies, skills), when site.json lists them.
+const sectionLink = (path) => site.pages?.find((p) => p.lang === 'en' && p.url === `${base}/${path}/`);
+const sections = ['services', 'cases', 'skills'].map(sectionLink).filter(Boolean)
+  .map((p) => `[${cell(p.title.split(' · ')[0])}](${p.url})`);
+
 const contact = [
   `**[${host(site.url)}](${site.url})**`,
   hire && `[Hire: terms and evidence](${hire.url})`,
@@ -50,6 +55,7 @@ const hireBlock = hire ? [
   '',
   ...hire.roles.map((r) => `- ${cell(r)}`),
   '',
+  ...(sections.length ? [sections.join(' · '), ''] : []),
 ] : [];
 
 const projectRow = (p) => {
