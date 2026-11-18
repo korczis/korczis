@@ -20,7 +20,7 @@ Software for evidence: AI agents that prove their work, honest instruments in th
 - Backend and distributed systems: Elixir, OTP, Phoenix, Rust, PostgreSQL
 - Fractional CTO and technical due diligence: data, OSINT, M&A
 
-[Services](https://korczis.github.io/services/) · [Skills](https://korczis.github.io/skills/)
+[Services](https://korczis.github.io/services/) · [Case studies](https://korczis.github.io/cases/) · [Skills](https://korczis.github.io/skills/)
 
 ## Featured work
 
