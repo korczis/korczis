@@ -92,4 +92,4 @@ forks (250) and mirrors (35) are left out.
 
 </details>
 
-<sub>Derived from [site.json](https://korczis.github.io/site.json), data as of 2026-11-23.</sub>
+<sub>Derived from [site.json](https://korczis.github.io/site.json), data as of 2026-11-24.</sub>
