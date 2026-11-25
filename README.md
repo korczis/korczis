@@ -72,7 +72,7 @@ Software for evidence: AI agents that prove their work, honest instruments in th
 
 ## Work by field
 
-205 original repositories on GitHub and GitLab, each with its sources, on [the site](https://korczis.github.io/repositories/);
+206 original repositories on GitHub and GitLab, each with its sources, on [the site](https://korczis.github.io/repositories/);
 forks (250) and mirrors (35) are left out.
 
 <details>
@@ -83,7 +83,7 @@ forks (250) and mirrors (35) are left out.
 - **[Learning and experiments](https://korczis.github.io/projects/learning/)** (21): Learning materials, katas and experiments across many languages: the sketches that came before the projects.
 - **[Systems and infrastructure](https://korczis.github.io/projects/systems/)** (17): Servers, clusters and the plumbing beneath software: immutable hosts, packet processing, embedded boards and deployment.
 - **[Web](https://korczis.github.io/projects/web/)** (14): Websites and web applications: single-page apps, Phoenix and Elm frontends, landing pages and the sites of friends.
-- **[Science and visualisation](https://korczis.github.io/projects/science/)** (12): Honest instruments and drawn algorithms in the browser: acoustics, physics, sorting, mazes, each readout measured.
+- **[Science and visualisation](https://korczis.github.io/projects/science/)** (13): Honest instruments and drawn algorithms in the browser: acoustics, physics, sorting, mazes, each readout measured.
 - **[Media and art](https://korczis.github.io/projects/media/)** (8): Work made from code: a promo reel rendered end to end, a music blog, and a digital artifact or two.
 - **[Libraries](https://korczis.github.io/projects/libraries/)** (6): Reusable building blocks for other programs: clients, bindings, validators, parsers and framework extensions, mostly Elixir and Rust.
 - **[AI engineering](https://korczis.github.io/projects/ai/)** (5): Supervision for AI coding agents: one policy for every tool, scoped tasks, and work that lands only when it is proven.
@@ -92,4 +92,4 @@ forks (250) and mirrors (35) are left out.
 
 </details>
 
-<sub>Derived from [site.json](https://korczis.github.io/site.json), data as of 2026-11-24.</sub>
+<sub>Derived from [site.json](https://korczis.github.io/site.json), data as of 2026-11-25.</sub>
